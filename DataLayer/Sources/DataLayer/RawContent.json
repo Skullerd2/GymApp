@@ -1,0 +1,51 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "name": "Жим штанги лежа",
+    "descript": "Базовое упражнение для развития больших грудных мышц, передних дельт и трицепсов.",
+    "muscleGroup": "Chest",
+    "imageRef": "https://cdn-fitness.com/ex/bench_press.png"
+  },
+  {
+    "id": "6eb6f3a0-7191-45f1-9493-2713f0190001",
+    "name": "Приседания со штангой",
+    "descript": "Фундаментальное упражнение для ног и ягодиц. Задействует квадрицепсы и мышцы кора.",
+    "muscleGroup": "Legs",
+    "imageRef": null
+  },
+  {
+    "id": "7949547d-8526-4740-9a3d-4c3d3f940002",
+    "name": "Подтягивания",
+    "descript": "Лучшее упражнение для широчайших мышц спины и бицепсов.",
+    "muscleGroup": "Back",
+    "imageRef": "https://cdn-fitness.com/ex/pullups.png"
+  },
+  {
+    "id": "93f668f4-2f53-48b2-b765-74892c900003",
+    "name": "Армейский жим",
+    "descript": "Жим штанги стоя для развития дельтовидных мышц и стабильности плечевого пояса.",
+    "muscleGroup": "Shoulders",
+    "imageRef": null
+  },
+  {
+    "id": "b1c2d3e4-f5a6-4b7c-8d9e-0f1a2b3c4d5e",
+    "name": "Подъем штанги на бицепс",
+    "descript": "Изолирующее упражнение для двуглавой мышцы плеча.",
+    "muscleGroup": "Arms",
+    "imageRef": "https://cdn-fitness.com/ex/bicep_curl.png"
+  },
+  {
+    "id": "c2d3e4f5-a6b7-4c8d-9e0f-1a2b3c4d5e6f",
+    "name": "Становая тяга",
+    "descript": "Сложное многосуставное упражнение, задействующее почти все мышцы задней цепи.",
+    "muscleGroup": "Back",
+    "imageRef": null
+  },
+  {
+    "id": "d3e4f5a6-b7c8-4d9e-0f1a-2b3c4d5e6f7a",
+    "name": "Отжимания на брусьях",
+    "descript": "Работает на нижнюю часть груди и трицепсы. Отличное функциональное упражнение.",
+    "muscleGroup": "Chest",
+    "imageRef": null
+  }
+]

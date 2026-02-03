@@ -1,0 +1,24 @@
+{
+  "originHash" : "62936fc06e37df40ee6ef76706ff88bfe918372382cd8d6b08e775302c46b92b",
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher",
+      "state" : {
+        "revision" : "d30a5fad881137e2267f96a8e3fc35c58999bb94",
+        "version" : "8.6.2"
+      }
+    },
+    {
+      "identity" : "needle?ysclid=mkix08uzoj887994767",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/uber/needle?ysclid=mkix08uzoj887994767",
+      "state" : {
+        "branch" : "master",
+        "revision" : "2a79817bc25d162eef2362f82f0fe2b005cbd3b0"
+      }
+    }
+  ],
+  "version" : 3
+}
